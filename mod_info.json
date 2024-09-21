@@ -1,0 +1,28 @@
+{
+  "id":"highfleet", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+"name":"Highfleet", # Displayed to the player
+"author":"Warspite",
+  "utility":"false",
+"version":"0.1a",
+"description":"A gun inspired by Highfleet",
+  "gameVersion": "0.97a-RC11",
+"jars":[""],
+  "modPlugin":"",
+"dependencies": [
+      {
+          "id": "lw_lazylib",
+          "name": "LazyLib",
+          #"version": "2.7b"
+      },
+      {
+          "id": "MagicLib",
+          "name": "MagicLib",
+          #"version": "0.34"
+      },
+      {
+          "id": "shaderLib",
+          "name": "GraphicsLib",
+          #"version": "1.5.1"
+      }
+  ],
+}
