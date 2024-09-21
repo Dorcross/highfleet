@@ -6,9 +6,9 @@
   "size": "MEDIUM",
   "displayArcRadius": 700,
   "turretSprite": "graphics/weapons/highfleet_d-80_molot_turret.png",
-  "turretGunSprite": "highfleet_d-80_molot_turret.png",
+  "turretGunSprite": "graphics/weapons/highfleet_d-80_molot_turret.png",
   "hardpointSprite": "graphics/weapons/highfleet_d-80_molot_turret.png",
-  "hardpointGunSprite": "highfleet_d-80_molot_turret.png",
+  "hardpointGunSprite": "graphics/weapons/highfleet_d-80_molot_turret.png",
   "renderHints": [
     RENDER_BARREL_BELOW
   ],
