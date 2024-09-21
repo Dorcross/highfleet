@@ -1,0 +1,46 @@
+{
+  "id": "d-80_molot",
+  "specClass": "projectile",
+  "projectileSpecId": "arbalest_shot",
+  "type": "BALLISTIC",
+  "size": "MEDIUM",
+  "displayArcRadius": 700,
+  "turretSprite": "graphics/weapons/highfleet_d-80_molot_turret.png",
+  "turretGunSprite": "highfleet_d-80_molot_turret.png",
+  "hardpointSprite": "graphics/weapons/highfleet_d-80_molot_turret.png",
+  "hardpointGunSprite": "highfleet_d-80_molot_turret.png",
+  "renderHints": [
+    RENDER_BARREL_BELOW
+  ],
+  "turretOffsets": [
+    16,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    26.5,
+    0
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "barrelMode": "ALTERNATING",
+  "animationType": "MUZZLE_FLASH",
+  "muzzleFlashSpec": {
+    "length": 40,
+    "spread": 20,
+    "particleSizeMin": 16,
+    "particleSizeRange": 18,
+    "particleDuration": 0.5,
+    "particleCount": 20,
+    "particleColor": [
+      255,
+      225,
+      225,
+      235
+    ]
+  },
+  "fireSoundTwo": "autocannon_fire"
+}
