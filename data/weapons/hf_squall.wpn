@@ -1,13 +1,13 @@
 {
-  "id": "hf_typhoon",  # this id must match what's in the spreadsheet
+  "id": "hf_squall",  # this id must match what's in the spreadsheet
   "specClass": "projectile",
   "type": "BALLISTIC",
   "size": "LARGE",
   "displayArcRadius": 700,
-  "turretSprite": "graphics/weapons/highfleet_typhoon_turret.png",
-  "turretGunSprite": "graphics/weapons/highfleet_typhoon_turret.png",
-  "hardpointSprite": "graphics/weapons/highfleet_typhoon_turret.png",
-  "hardpointGunSprite": "graphics/weapons/highfleet_typhoon_turret.png",
+  "turretSprite": "graphics/weapons/highfleet_squall_turret.png",
+  "turretGunSprite": "graphics/weapons/highfleet_squall_turret.png",
+  "hardpointSprite": "graphics/weapons/highfleet_squall_turret.png",
+  "hardpointGunSprite": "graphics/weapons/highfleet_squall_turret.png",
   "renderHints": [
     RENDER_BARREL_BELOW
   ],
