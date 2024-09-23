@@ -1,5 +1,5 @@
 {
-	"id":"sarmat",  # this id must match what's in the spreadsheet
+	"id":"hf_sarmat",  # this id must match what's in the spreadsheet
 	"specClass":"projectile",
 	"type":"BALLISTIC",
 	"size":"MEDIUM",

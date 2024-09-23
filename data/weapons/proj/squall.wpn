@@ -71,6 +71,6 @@
       235
     ]
   },
- "projectileSpecId": "hephag_shot",
+ "projectileSpecId": "starsector-core\data\weapons\proj\hephag_shot.proj",
   "fireSoundTwo": "autocannon_fire"
 }
