@@ -1,6 +1,7 @@
 {
   "id": "squall",
   "specClass": "projectile",
+  "projectileSpecId": "hephag_shot",
   "type": "BALLISTIC",
   "size": "LARGE",
   "displayArcRadius": 700,
@@ -71,6 +72,5 @@
       235
     ]
   },
-  "fireSoundTwo": "autocannon_fire",
-"projectileSpecId": "hephag_shot",
+  "fireSoundTwo": "autocannon_fire"
 }
