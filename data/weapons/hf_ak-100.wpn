@@ -1,0 +1,30 @@
+{
+	"id":"hf_ak-100",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"BALLISTIC",
+	"size":"MEDIUM",
+	"displayArcRadius":700,
+	#"turretUnderSprite":"graphics/weapons/highfleet_ak-100_turret.png",
+	"turretSprite":"graphics/weapons/highfleet_ak-100_turret.png",
+	"turretGunSprite":"graphics/weapons/highfleet_ak-100_turret.png",
+	#"hardpointUnderSprite":"graphics/weapons/highfleet_ak-100_turret.png",
+	"hardpointSprite":"graphics/weapons/highfleet_ak-100_turret.png",
+	"hardpointGunSprite":"graphics/weapons/highfleet_ak-100_turret.png",	
+	"visualRecoil":0.0,  # the gun sprites are only used if this is non-0
+	"renderHints":[RENDER_BARREL_BELOW],
+	"turretOffsets":[13, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[28, 0],
+	"hardpointAngleOffsets":[0],
+	"barrelMode":"LINKED", # or ALTERNATING.  whether barrels fire at the same time or alternate.
+	"animationType":"MUZZLE_FLASH",  # NONE, GLOW, MUZZLE_FLASH, SMOKE
+	"muzzleFlashSpec":{"length":40.0,   # only used if animationType = MUZZLE_FLASH
+					   "spread":20.0,
+					   "particleSizeMin":16.0,
+					   "particleSizeRange":18.0,
+					   "particleDuration":0.5,
+					   "particleCount":20,
+					  "particleColor":[255,225,225,235]},
+	"projectileSpecId":"arbalest_shot",  # projectile that will be fired	
+	"fireSoundTwo":"autocannon_fire",
+}
