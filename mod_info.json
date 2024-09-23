@@ -1,7 +1,7 @@
 {
   "id":"highfleet", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
 "name":"Highfleet", # Displayed to the player
-"author":"Warspite" "Willthefunperson" "MiniDeth3",
+"author": "Warspite, Willthefunperson, MiniDeth3",
   "utility":"false",
 "version":"0.1a",
 "description":"A gun inspired by Highfleet",
