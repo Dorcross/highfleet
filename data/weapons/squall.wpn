@@ -1,7 +1,6 @@
 {
   "id": "squall",  # this id must match what's in the spreadsheet
   "specClass": "projectile",
-  "projectileSpecId": "hephag_shot",
   "type": "BALLISTIC",
   "size": "LARGE",
   "displayArcRadius": 700,
@@ -72,5 +71,6 @@
       235
     ]
   },
+ "projectileSpecId": "hephag_shot",
   "fireSoundTwo": "autocannon_fire"
 }
