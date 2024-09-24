@@ -1,3 +1,5 @@
 id,type,text1,text2,text3,text4,notes
-sarmat,WEAPON,"A smaller version of the Squall, fires the same 180mm high caliber rounds, but at reduced fire rate, smaller magazine depth and more recoil.",,,,
-d-80_molot,WEAPON,Sacrifices overwhelming firepower for accuracy and better recoil control.,,,,
+hf_sarmat,WEAPON,"A smaller version of the Squall, fires the same 180mm high caliber rounds, but at reduced fire rate, smaller magazine depth and more recoil.",,,,
+hf_d-80_molot,WEAPON,Fires a high velocity intermediate shell (130mm) at a modest rate of fire but good accuracy.,,,,
+hf_ak-100,WEAPON,"Fires a (relatively) small caliber round at a high rate, but is very inaccurate. Best used up close.",,,,
+hf_squall,WEAPON,The biggest and most powerful cannon to have been developed (yet). Able to rapidly spam 180mm shells at an alarming rate.,,,,
