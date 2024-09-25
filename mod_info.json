@@ -3,8 +3,8 @@
 "name":"Highfleet", # Displayed to the player
 "author": "Warspite, Willthefunperson, MiniDeth3",
   "utility":"false",
-"version":"0.1a",
-"description":"A gun inspired by Highfleet",
+"version":"0.2",
+"description":"Some guns inspired by Highfleet",
   "gameVersion": "0.97a-RC11",
 "dependencies": [
       {
