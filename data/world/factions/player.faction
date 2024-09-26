@@ -1,0 +1,22 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/hf_male1",
+			"graphics/portraits/hf_male2",
+			"graphics/portraits/hf_male3",
+			"graphics/portraits/hf_male4",
+			"graphics/portraits/hf_male5",
+			"graphics/portraits/hf_male6",
+			"graphics/portraits/hf_male7",
+			"graphics/portraits/hf_male8",
+			"graphics/portraits/hf_male9",
+			"graphics/portraits/hf_male10",
+			"graphics/portraits/hf_male11",
+			"graphics/portraits/hf_male12",
+			"graphics/portraits/hf_male13",
+		],
+		"standard_female":[
+			"graphics/portraits/hf_female1",
+		],
+	},
+},				
