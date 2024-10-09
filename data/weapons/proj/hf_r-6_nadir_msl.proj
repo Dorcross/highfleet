@@ -3,9 +3,9 @@
 	"specClass":"missile",	
 	"missileType":"MISSILE",
 	"sprite":"graphics/missiles/missile_harpoon.png",
-	"size":[10,22],	
-	"center":[5,12],
-	"collisionRadius":16,
+	"size":[12,22],	
+	"center":[6,11],
+	"collisionRadius":18,
 	"collisionClass":"MISSILE_NO_FF",
 	"explosionColor":[100,100,255,255],  # purely visual, will get a white additively blended core on top of this color
 	"explosionRadius":150, # purely visual
