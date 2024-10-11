@@ -1,8 +1,8 @@
 {
-	"id":"harpoon_mrm",
+	"id":"hf_r-6_nadir_msl",
 	"specClass":"missile",	
 	"missileType":"MISSILE",
-	"sprite":"graphics/missiles/missile_harpoon.png",
+	"sprite":"graphics/missiles/hf_r-6_nadir_msl.png",
 	"size":[12,22],	
 	"center":[6,11],
 	"collisionRadius":18,
