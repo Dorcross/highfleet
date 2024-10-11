@@ -1,0 +1,58 @@
+{
+  "id": "hf_r-6_nadir_triple_stack",
+  "specClass": "projectile",
+  "projectileSpecId": "hf_r-6_nadir_msl",
+  "type": "MISSILE",
+  "size": "MEDIUM",
+  "turretSprite": "graphics/weapons/hf_r-6_nadir_turret_triple_launcher.png",
+  "hardpointSprite": "graphics/weapons/hf_r-6_nadir_turret_triple_launcher.png",
+  "renderHints": [
+    RENDER_LOADED_MISSILES
+  ],
+  "turretOffsets": [
+    0,
+    0,
+    -6,
+    7,
+    -6,
+    -7
+  ],
+  "turretAngleOffsets": [
+    0,
+    0,
+    0
+  ],
+  "hardpointOffsets": [
+    7.5,
+    0,
+    1.5,
+    7,
+    1.5,
+    -7
+  ],
+  "hardpointAngleOffsets": [
+    0,
+    0,
+    0
+  ],
+  "barrelMode": "ALTERNATING",
+  "animationType": "SMOKE",
+  "smokeSpec": {
+    "particleSizeMin": 20,
+    "particleSizeRange": 20,
+    "cloudParticleCount": 3,
+    "cloudDuration": 1,
+    "cloudRadius": 10,
+    "blowbackParticleCount": 3,
+    "blowbackDuration": 2,
+    "blowbackLength": 30,
+    "blowbackSpread": 10,
+    "particleColor": [
+      100,
+      100,
+      100,
+      200
+    ]
+  },
+  "fireSoundTwo": "harpoon_fire"
+}
