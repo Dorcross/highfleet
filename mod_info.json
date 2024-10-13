@@ -6,6 +6,8 @@
 "version":"0.2",
 "description":"Some guns inspired by Highfleet",
   "gameVersion": "0.97a-RC11",
+  "jars":["jars/highfleet.jar"],
+  "modPlugin":"highfleet.HighfleetModPlugin",
 "dependencies": [
       {
           "id": "lw_lazylib",
