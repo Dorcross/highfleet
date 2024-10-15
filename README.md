@@ -1,1 +1,1 @@
-This is the current wip of this mod, as of yet only the guns are present in a "mostly finished", but unbalanced state. There is also a page on the Fractal Softworks forums: https://fractalsoftworks.com/forum/index.php?topic=30637.0
+This is the current incomplete versio of this mod, as of yet only the guns, a few missiles and a System are present in a "mostly finished", but unbalanced state. There is also a page on the Fractal Softworks forums: https://fractalsoftworks.com/forum/index.php?topic=30637.0
