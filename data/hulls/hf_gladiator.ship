@@ -1,0 +1,107 @@
+{
+  "hullName": "Gladiator",
+  "hullId": "hf_gladiator",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/hf_gladiator.png",
+  "style": "MIDLINE",
+  "height": 130,
+  "width": 130,
+  "center": [65, 60],
+  "collisionRadius": 83,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 80.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": 0,
+      "locations": [62, 11]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": -0,
+      "locations": [62, -11]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 60,
+      "locations": [37, 42]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": -60,
+      "locations": [37, -42]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 120,
+      "locations": [-18, 38]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": -120,
+      "locations": [-18, -38]
+    },
+    {
+      "id": "WS0007",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 0,
+      "locations": [4, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-58, 23.5],
+      "length": 57.5,
+      "width": 27,
+      "angle": 180,
+      "contrailSize": 27,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-58, -24.5],
+      "length": 57.5,
+      "width": 27,
+      "angle": 180,
+      "contrailSize": 27,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    66.5, -22,
+    51, -56.5,
+    20, -46,
+    -47.5, -46,
+    -47.5, 46,
+    20, 46,
+    51, 56.5,
+    66.5, 22
+  ]
+}
