@@ -1,7 +1,7 @@
 {
 	"id":"hf_sarmat_nefp",  # this id must match what's in the spreadsheet
 	"specClass":"projectile",
-	"spawntype": "BALLISTIC_AS_BEAM",
+	"spawntype":"BALLISTIC_AS_BEAM",
 	"type":"BALLISTIC",
 	"size":"MEDIUM",
 	"displayArcRadius":1000,
