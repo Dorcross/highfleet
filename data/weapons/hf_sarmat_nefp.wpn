@@ -5,10 +5,10 @@
 	"type":"BALLISTIC",
 	"size":"MEDIUM",
 	"displayArcRadius":1000,
-	#"turretUnderSprite":"graphics/weapons/highfleet_sarmat_nefp_turret_base.png",
+	"turretUnderSprite":"graphics/weapons/highfleet_sarmat_nefp_turret_base.png",
 	"turretSprite":"graphics/weapons/highfleet_sarmat_nefp_turret_base.png",
 	"turretGunSprite":"graphics/weapons/highfleet_sarmat_nefp_turret_recoil.png",
-	#"hardpointUnderSprite":"graphics/weapons/highfleet_sarmat_nefp_turret_base.png",
+	"hardpointUnderSprite":"graphics/weapons/highfleet_sarmat_nefp_turret_base.png",
 	"hardpointSprite":"graphics/weapons/highfleet_sarmat_nefp_turret_base.png",
 	"hardpointGunSprite":"graphics/weapons/highfleet_sarmat_nefp_turret_recoil.png",	
 	"visualRecoil":6.0,  # the gun sprites are only used if this is non-0
